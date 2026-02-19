@@ -1,0 +1,13 @@
+# Core dependencies (required for all modules)
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+xgboost
+tensorflow
+imbalanced-learn
+jupyter
+notebook
+ipykernel
